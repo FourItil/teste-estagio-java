@@ -1,4 +1,4 @@
-#Teste Java para estágio em desenvolvimento
+#Teste Java (Básico) para estágio em desenvolvimento
 
 
 Bem vindo(a), este é um teste básico para avaliarmos a capacidade de resolução de problemas em tecnologias android, mais precisamente Java.
