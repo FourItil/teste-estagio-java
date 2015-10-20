@@ -5,6 +5,10 @@ Bem vindo(a), este é um teste básico para avaliarmos a capacidade de resoluç�
 
 Siga atentamente as recomendações e dentro do prazo informado em seu email, forneça a solução.
 
+###Quem pode realizar este teste?
+
+SOMENTE serão aceitas resoluções de candidatos a estágio que receberam um email contendo o link e o prazo para resolução e NUNCA via Pull Request. A resolução deve ser enviada via link respondendo o email recebido.
+
 
 ###Primeiros passos
 
